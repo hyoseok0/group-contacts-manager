@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">그룹 연락처 매니저</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_send_1_format_phone_email">연락처 양식 파일 이메일로 보내기</string>
+    <string name="title_activity_send_2_format_email_pc">연락처 양식 파일 PC로 다운로드</string>
+    <string name="title_activity_write_3_format_in_front_of_pc">연락처 양식 파일에 연락처 입력</string>
+    <string name="title_activity_send_4_format_pc_email">작성된 연락처 파일 이메일로 보내기</string>
+    <string name="title_activity_send_5_format_email_phone">작성된 연락처 파일, 폰으로 다운로드</string>
+    <string name="title_activity_import_6__format_to_contacts">연락처 파일을 찾아 연락처 입력하기</string>
+    <string name="title_activity_files_list">연락처 입력 파일을 선택하세요</string>
+    <string name="title_activity_files">Files</string>
+    <string name="title_activity_main">그룹 연락처 매니저</string>
+    <string name="insertContacts">연락처 입력</string>
+    <string name="start">시작</string>
+    <string name="send">보내기</string>
+    <string name="link6">[연락처 입력] 바로가기</string>
+    <string name="caution">2. 파일명은 영어로</string>
+    <string name="caution2">1. csv 형식으로 저장</string>
+    <string name="manual">[사용 설명]</string>
+    <string name="sampleEmail">abc@example.com</string>
+    <string name="ownerName">본인 이름</string>
+    <string name="member">[구성원] 메일로 작성된 연락처 파일 받음</string>    
+    <string name="manager">[관리자] PC에서 연락처 파일 작성</string>
+</resources>
